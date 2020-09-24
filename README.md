@@ -1,9 +1,15 @@
+<img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+
 ### ヾ(@^▽^@)ノ
 
 - 🔭 I’m currently working on  [91 algorthimn](https://lucifer.ren/blog/2020/05/25/91-algo2/)
 - 🌱 I’m currently learning psychology
 - 👯 I’m looking to collaborate on 91 team. feel free to reach me: azl397985856@gmail.com
 - 💬 Ask me about frontend, algorthimn, interview etc
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 
 ###  Follow Me

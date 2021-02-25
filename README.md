@@ -14,6 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [阿里面试题：如何寻找「两个数组」的中位数？](https://lucifer.ren/blog/2021/02/25/leetcode-median/)
+- [我是如何用「最大公约数」秒杀算法题的](https://lucifer.ren/blog/2021/02/24/gcd/)
+- [如何求二维数组的前缀和？](https://lucifer.ren/blog/2021/02/20/2d-pre/)
+- [一个让你的 YouTube 丝滑般柔顺的插件](https://lucifer.ren/blog/2021/02/20/youtube-extesion/)
+- [如何将 github 上的代码一键部署到服务器？](https://lucifer.ren/blog/2021/02/14/deploy-button/)
 <!-- BLOG-POST-LIST:END -->
 ##  Follow Me
 

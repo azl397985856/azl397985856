@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [91 天学算法第三期视频会议总结](https://lucifer.ren/blog/2021/03/01/91meeting-season-3-1/)
 - [如何自动同步博客到 Github 主页？](https://lucifer.ren/blog/2021/02/27/github-blog-auto/)
 - [阿里面试题：如何寻找「两个数组」的中位数？](https://lucifer.ren/blog/2021/02/25/leetcode-median/)
 - [我是如何用「最大公约数」秒杀算法题的](https://lucifer.ren/blog/2021/02/24/gcd/)
 - [如何求二维数组的前缀和？](https://lucifer.ren/blog/2021/02/20/2d-pre/)
-- [一个让你的 YouTube 丝滑般柔顺的插件](https://lucifer.ren/blog/2021/02/20/youtube-extesion/)
 <!-- BLOG-POST-LIST:END -->
 ##  Follow Me
 

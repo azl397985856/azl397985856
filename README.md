@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://lucifer.ren/blog/2021/03/09/ts-generics/)
+- [几乎刷完了力扣所有的二分题，我发现了这些东西。。。（上）](https://lucifer.ren/blog/2021/03/08/binary-search-1/)
 - [春招冲冲冲](https://lucifer.ren/blog/2021/03/04/school-01/)
 - [91 天学算法第三期视频会议总结](https://lucifer.ren/blog/2021/03/01/91meeting-season-3-1/)
 - [如何自动同步博客到 Github 主页？](https://lucifer.ren/blog/2021/02/27/github-blog-auto/)
-- [阿里面试题：如何寻找「两个数组」的中位数？](https://lucifer.ren/blog/2021/02/25/leetcode-median/)
-- [我是如何用「最大公约数」秒杀算法题的](https://lucifer.ren/blog/2021/02/24/gcd/)
 <!-- BLOG-POST-LIST:END -->
 ##  Follow Me
 

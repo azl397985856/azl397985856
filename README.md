@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [lucifer 的面试之路](https://lucifer.ren/blog/2021/04/03/interview-road/)
 - [春招冲冲冲(网易)](https://lucifer.ren/blog/2021/03/28/school-03/)
 - [几乎刷完了力扣所有的二分题，我发现了这些东西。。。（下）](https://lucifer.ren/blog/2021/03/23/binary-search-2/)
 - [力扣刷题插件近期更新盘点](https://lucifer.ren/blog/2021/03/16/leetcode-cheat-update-1/)
 - [春招冲冲冲(钉钉+腾讯)](https://lucifer.ren/blog/2021/03/11/school-02/)
-- [几乎刷完了力扣所有的二分题，我发现了这些东西。。。（上）](https://lucifer.ren/blog/2021/03/08/binary-search-1/)
 <!-- BLOG-POST-LIST:END -->
 ##  Follow Me
 

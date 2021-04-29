@@ -20,11 +20,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [他来了，他带着「 西法的刷题秘籍 2.0 」 走来了！](https://lucifer.ren/blog/2021/04/28/ebook-2.0/)
 - [动态规划到底有多难？](https://lucifer.ren/blog/2021/04/20/dp/)
 - [为何我刷了很多，遇到新的题还是唯唯诺诺，无法重拳出击？](https://lucifer.ren/blog/2021/04/06/out-of-science/)
 - [lucifer 的面试之路](https://lucifer.ren/blog/2021/04/03/interview-road/)
 - [春招冲冲冲(网易)](https://lucifer.ren/blog/2021/03/28/school-03/)
-- [几乎刷完了力扣所有的二分题，我发现了这些东西。。。（下）](https://lucifer.ren/blog/2021/03/23/binary-search-2/)
 <!-- BLOG-POST-LIST:END -->
 
 

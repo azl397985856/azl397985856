@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azl397985856)](https://github.com/azl397985856/leetcode)
+
 ## ヾ(@^▽^@)ノ
 
 - 🔭 I’m currently working on  [91 algorthimn](https://lucifer.ren/blog/2020/10/19/91-algo-2/)

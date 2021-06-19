@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我离职了~](https://lucifer.ren/blog/2021/06/18/quit-esign/)
 - [手把手教你刷搜索](https://lucifer.ren/blog/2021/06/02/search/)
 - [某区块链公司竟然用这道算法题来面试](https://lucifer.ren/blog/2021/05/24/interview-fe-bi/)
 - [读者：西法，记忆化递归究竟怎么改成动态规划啊？](https://lucifer.ren/blog/2021/05/18/dp-bottom-up/)
 - [为了提高 Github 的阅读体验，我做了一个 Github 阅读器](https://lucifer.ren/blog/2021/05/16/github-reader/)
-- [努力上岸的元气少女](https://lucifer.ren/blog/2021/05/10/91-student-1/)
 <!-- BLOG-POST-LIST:END -->
 
 

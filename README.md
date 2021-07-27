@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【91专访】 微软大佬 cabbage 分享算法面试心得](https://lucifer.ren/blog/2021/07/27/91algo-interview-cabbage/)
 - [将命令行工具转为 Web 页面？](https://lucifer.ren/blog/2021/07/05/ttw/)
 - [从零实现 vite（先导篇）](https://lucifer.ren/blog/2021/07/03/mono-vite/)
 - [一个可以让你肆意摸鱼的 vscode 插件](https://lucifer.ren/blog/2021/06/23/moyu-1/)
 - [我离职了~](https://lucifer.ren/blog/2021/06/18/quit-esign/)
-- [手把手教你刷搜索](https://lucifer.ren/blog/2021/06/02/search/)
 <!-- BLOG-POST-LIST:END -->
 
 

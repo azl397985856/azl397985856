@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [你不知道的 LeetCode 技巧（第一篇）](https://lucifer.ren/blog/2021/08/06/ydk-leetcode/)
 - [从零到谷歌程序员：「狗头」的面试刷题心得](https://lucifer.ren/blog/2021/07/29/91algo-interview-yixiao/)
 - [史诗级更新，VSCODE 可无缝调试浏览器了！](https://lucifer.ren/blog/2021/07/28/vscode-brower-debug/)
 - [【91专访】 微软大佬 cabbage 分享算法面试心得](https://lucifer.ren/blog/2021/07/27/91algo-interview-cabbage/)
 - [将命令行工具转为 Web 页面？](https://lucifer.ren/blog/2021/07/05/ttw/)
-- [从零实现 vite（先导篇）](https://lucifer.ren/blog/2021/07/03/mono-vite/)
 <!-- BLOG-POST-LIST:END -->
 
 

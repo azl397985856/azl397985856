@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《算法通关之路》出版啦！](https://lucifer.ren/blog/2021/09/04/leetcode-solution-book/)
+- [github 又出新功能，布局云端 vscode？](https://lucifer.ren/blog/2021/09/02/vscode-dev-codespaces/)
 - [如何搞定不同公司的算法面试？（早早聊分享文字版）](https://lucifer.ren/blog/2021/09/02/zaozaoliao/)
 - [回炉重铸， 91 天见证不一样的自己（第五期）](https://lucifer.ren/blog/2021/08/21/91algo-5/)
 - [你不知道的 LeetCode 技巧（第二篇）](https://lucifer.ren/blog/2021/08/17/ydk-leetcode-2/)
-- [你不知道的 LeetCode 技巧（第一篇）](https://lucifer.ren/blog/2021/08/06/ydk-leetcode/)
-- [从零到谷歌程序员：「狗头」的面试刷题心得](https://lucifer.ren/blog/2021/07/29/91algo-interview-yixiao/)
 <!-- BLOG-POST-LIST:END -->
 
 

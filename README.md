@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [五天100+题，怒进谷歌！](https://lucifer.ren/blog/2021/09/24/91algo-interview-kongshi/)
 - [力扣刷题的正确姿势是什么？](https://lucifer.ren/blog/2021/09/16/how-leetcode/)
 - [《算法通关之路》出版啦！](https://lucifer.ren/blog/2021/09/04/leetcode-solution-book/)
 - [入职一个月，远程办公感受如何？](https://lucifer.ren/blog/2021/09/04/wfh/)
 - [github 又出新功能，布局云端 vscode？](https://lucifer.ren/blog/2021/09/02/vscode-dev-codespaces/)
-- [如何搞定不同公司的算法面试？（早早聊分享文字版）](https://lucifer.ren/blog/2021/09/02/zaozaoliao/)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《算法通关之路》邀请你来试读](https://lucifer.ren/blog/2021/10/24/new-book/)
 - [聊聊刷题中的**顿悟**时刻](https://lucifer.ren/blog/2021/10/16/algo-fakers/)
 - [用什么语言刷题最有排面？](https://lucifer.ren/blog/2021/10/10/programming-idioms/)
 - [写注释就能自动出代码？copilot 尝鲜](https://lucifer.ren/blog/2021/10/05/copilot/)
 - [有了这个可视化插件，刷题调试更轻松](https://lucifer.ren/blog/2021/09/26/algo-vis/)
-- [五天100+题，怒进谷歌！](https://lucifer.ren/blog/2021/09/24/91algo-interview-kongshi/)
 <!-- BLOG-POST-LIST:END -->
 
 

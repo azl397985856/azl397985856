@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何准备算法竞赛？](https://lucifer.ren/blog/2021/11/17/cses/)
 - [Chrome 新功能 - 录制小视频](https://lucifer.ren/blog/2021/11/10/chrome-recorder/)
 - [面试中图论都考什么？这篇文章告诉你！](https://lucifer.ren/blog/2021/11/09/grapth/)
 - [《算法通关之路》邀请你来试读](https://lucifer.ren/blog/2021/10/24/new-book/)
 - [聊聊刷题中的**顿悟**时刻](https://lucifer.ren/blog/2021/10/16/algo-fakers/)
-- [用什么语言刷题最有排面？](https://lucifer.ren/blog/2021/10/10/programming-idioms/)
 <!-- BLOG-POST-LIST:END -->
 
 

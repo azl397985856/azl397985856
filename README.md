@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [今年秋招大家都在讨论的话题，薪资只排第3](https://lucifer.ren/blog/2021/11/28/qiuzhao2021/)
+- [或许是一本可以彻底改变你刷 LeetCode 效率的题解书](https://lucifer.ren/blog/2021/11/20/leetcode-book.intro/)
 - [如何准备算法竞赛？](https://lucifer.ren/blog/2021/11/17/cses/)
 - [Chrome 新功能 - 录制小视频](https://lucifer.ren/blog/2021/11/10/chrome-recorder/)
 - [面试中图论都考什么？这篇文章告诉你！](https://lucifer.ren/blog/2021/11/09/grapth/)
-- [《算法通关之路》邀请你来试读](https://lucifer.ren/blog/2021/10/24/new-book/)
-- [聊聊刷题中的**顿悟**时刻](https://lucifer.ren/blog/2021/10/16/algo-fakers/)
 <!-- BLOG-POST-LIST:END -->
 
 

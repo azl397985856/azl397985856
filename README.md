@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [区间算法题用线段树可以秒解？](https://lucifer.ren/blog/2021/12/16/segment-tree/)
 - [腾讯校招还考抛物线？](https://lucifer.ren/blog/2021/12/13/tencent-2021/)
 - [回炉重铸， 91 天见证不一样的自己（第六期）](https://lucifer.ren/blog/2021/12/03/91algo-6/)
 - [今年秋招大家都在讨论的话题，薪资只排第3](https://lucifer.ren/blog/2021/11/28/qiuzhao2021/)
 - [或许是一本可以彻底改变你刷 LeetCode 效率的题解书](https://lucifer.ren/blog/2021/11/20/leetcode-book.intro/)
-- [如何准备算法竞赛？](https://lucifer.ren/blog/2021/11/17/cses/)
 <!-- BLOG-POST-LIST:END -->
 
 

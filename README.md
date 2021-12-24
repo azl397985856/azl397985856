@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azl397985856)](https://github.com/azl397985856/leetcode)
 
+In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/azl397985856
+
 ## ヾ(@^▽^@)ノ
 
 - 🔭 I’m currently working on  [91 algorthimn](https://lucifer.ren/blog/2021/12/03/91algo-6/)

@@ -24,11 +24,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [听说逆向思维能够降低时间复杂度？](https://lucifer.ren/blog/2022/01/27/backward/)
 - [技术面试原来不止考技术？](https://lucifer.ren/blog/2022/01/04/non-tech-skill/)
 - [刷题插件可以隐藏测试用例啦](https://lucifer.ren/blog/2021/12/22/leetcode-cheat-hide-cases/)
 - [区间算法题用线段树可以秒解？](https://lucifer.ren/blog/2021/12/16/segment-tree/)
 - [腾讯校招还考抛物线？](https://lucifer.ren/blog/2021/12/13/tencent-2021/)
-- [回炉重铸， 91 天见证不一样的自己（第六期）](https://lucifer.ren/blog/2021/12/03/91algo-6/)
 <!-- BLOG-POST-LIST:END -->
 
 

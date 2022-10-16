@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [回炉重铸， 91 天见证不一样的自己（第九期）](https://lucifer.ren/blog/2022/10/15/91algo-9/)
 - [回炉重铸， 91 天见证不一样的自己（第八期）](https://lucifer.ren/blog/2022/07/09/91algo-8/)
 - [恭喜又一个小姐姐进了谷歌](https://lucifer.ren/blog/2022/05/21/google-interview-tao/)
 - [快来 **伯克利大学** 学计算机](https://lucifer.ren/blog/2022/05/15/daily-featured-2022-04/)
 - [西法的 2022 书单推荐](https://lucifer.ren/blog/2022/04/26/books-2022/)
-- [Git 中的算法第二弹-最近公共祖先](https://lucifer.ren/blog/2022/04/06/git-merge-base/)
 <!-- BLOG-POST-LIST:END -->
 
 

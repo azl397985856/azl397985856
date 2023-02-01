@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [回炉重铸， 91 天见证不一样的自己（第X期）](https://lucifer.ren/blog/2023/02/01/91algo-10/)
 - [一款显示题目对应周赛难度分的浏览器插件| TamperMonkey | Chrome | FireFox](https://lucifer.ren/blog/2023/01/19/leetcode-rating/)
 - [我的 2022 年总结](https://lucifer.ren/blog/2023/01/18/2022/)
 - [力扣刷题的正确姿势是什么？](https://lucifer.ren/blog/2023/01/02/how-leetcode/)
 - [入职 Google 一年多的感触（你们的大狗头来啦~）](https://lucifer.ren/blog/2023/01/01/goutou-2/)
-- [回炉重铸， 91 天见证不一样的自己（第九期）](https://lucifer.ren/blog/2022/10/15/91algo-9/)
 <!-- BLOG-POST-LIST:END -->
 
 

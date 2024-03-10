@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Make Monney](https://lucifer.ren/blog/2024/03/10/make-money/)
+- [kuma - css-in-js 的未来？](https://lucifer.ren/blog/2024/03/07/kuma/)
 - [关于 Error Boundaries， 你需要知道的一切](https://lucifer.ren/blog/2024/01/28/error-boundaries/)
 - [回炉重铸， 91 天见证不一样的自己（第 12 期）](https://lucifer.ren/blog/2023/11/02/91algo-12/)
 - [如何自己实现一个自动化框架？](https://lucifer.ren/blog/2023/08/27/how-to-make-automator/)
-- [如何移除项目中未使用的 CSS](https://lucifer.ren/blog/2023/08/08/remove-useless-css/)
-- [回炉重铸， 91 天见证不一样的自己（第 11 期）](https://lucifer.ren/blog/2023/06/04/91algo-11/)
 <!-- BLOG-POST-LIST:END -->
 
 

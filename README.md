@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [冷门但有用的算法知识 -  字符串的最小&lpar;大&rpar;表示法](https://lucifer.ren/blog/2025/01/18/min_max_str/)
 - [《幽灵诡计》 剧情分析](https://lucifer.ren/blog/2024/12/06/ghost-trick/)
 - [回炉重铸， 91 天见证不一样的自己（第 15 期）](https://lucifer.ren/blog/2024/11/23/91algo-15/)
 - [从零开始构建区块链](https://lucifer.ren/blog/2024/11/22/web3-zero-to-one/)
 - [数字型递推](https://lucifer.ren/blog/2024/11/01/num-dp/)
-- [为什么我的 node 进程一直在运行？](https://lucifer.ren/blog/2024/08/10/why-node-is-running/)
 <!-- BLOG-POST-LIST:END -->
 
 

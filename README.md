@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我是一个区块链黑客（第一篇）](https://lucifer.ren/blog/2025/03/01/web3-hacker-1/)
+- [从零实现区块链 - 侧链与L2](https://lucifer.ren/blog/2025/03/01/web3-l2-from-zero/)
+- [传 DeepSeek 或于五月份前发布 R2 模型](https://lucifer.ren/blog/2025/02/26/lc-1472/)
+- [外卖骑手抵触社保，只想到手更高](https://lucifer.ren/blog/2025/02/22/lc-3428/)
 - [Web3 的入口 - 区块链钱包](https://lucifer.ren/blog/2025/02/16/web3-wallet/)
-- [冷门但有用的算法知识 -  字符串的最小&lpar;大&rpar;表示法](https://lucifer.ren/blog/2025/01/18/min_max_str/)
-- [《幽灵诡计》 剧情分析](https://lucifer.ren/blog/2024/12/06/ghost-trick/)
-- [回炉重铸， 91 天见证不一样的自己（第 15 期）](https://lucifer.ren/blog/2024/11/23/91algo-15/)
-- [从零开始构建区块链](https://lucifer.ren/blog/2024/11/22/web3-zero-to-one/)
 <!-- BLOG-POST-LIST:END -->
 
 

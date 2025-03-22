@@ -33,7 +33,7 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Warp vs. iTerm2：终端世界的叛逆者与老将](https://lucifer.ren/blog/2025/03/19/warp/)
+- [AI + terminal 等于 Warp？](https://lucifer.ren/blog/2025/03/19/warp/)
 - [亚信科技这波操作真是把“画饼艺术”玩到极致了！](https://lucifer.ren/blog/2025/03/17/lc-1963/)
 - [华为这波太猛了，多人被开除](https://lucifer.ren/blog/2025/03/12/lc-3434/)
 - [更加安全的区块链钱包：MPC 钱包](https://lucifer.ren/blog/2025/03/05/web3-mpc/)

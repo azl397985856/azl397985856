@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI + terminal 等于 Warp？](https://lucifer.ren/blog/2025/03/19/warp/)
-- [亚信科技这波操作真是把“画饼艺术”玩到极致了！](https://lucifer.ren/blog/2025/03/17/lc-1963/)
-- [华为这波太猛了，多人被开除](https://lucifer.ren/blog/2025/03/12/lc-3434/)
-- [更加安全的区块链钱包：MPC 钱包](https://lucifer.ren/blog/2025/03/05/web3-mpc/)
-- [我是一个区块链黑客（第一篇）](https://lucifer.ren/blog/2025/03/01/web3-hacker-1/)
+- [字节期权回购又双叒涨了？这波员工赢麻了！](https://lucifer.ren/blog/2025/04/11/lc-3468/)
+- [Web3 中的授权与撤销授权](https://lucifer.ren/blog/2025/04/02/web3-approve/)
+- [传 PayPal 中国裁员，伤害团队解散？](https://lucifer.ren/blog/2025/03/31/lc-3504/)
+- [Web3 金融的基石 - Swap 和 Staking](https://lucifer.ren/blog/2025/03/28/web3-swap-staking/)
+- [让魔兽再次伟大](https://lucifer.ren/blog/2025/03/20/war3-website/)
 <!-- BLOG-POST-LIST:END -->
 
 

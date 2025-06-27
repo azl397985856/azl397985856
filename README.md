@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [回炉重铸， 91 天见证不一样的自己（第 16 期）](https://lucifer.ren/blog/2025/06/27/91algo-16/)
+- [缠论](https://lucifer.ren/blog/2025/06/20/zen-k-line/)
 - [看懂 Web3 的 K 线](https://lucifer.ren/blog/2025/06/10/web3-k-line/)
 - [一个简单的 web3 应用](https://lucifer.ren/blog/2025/05/11/web-demo/)
 - [字节期权回购又双叒涨了？这波员工赢麻了！](https://lucifer.ren/blog/2025/04/11/lc-3468/)
-- [Web3 中的授权与撤销授权](https://lucifer.ren/blog/2025/04/02/web3-approve/)
-- [传 PayPal 中国裁员，伤害团队解散？](https://lucifer.ren/blog/2025/03/31/lc-3504/)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [探索 DeFi 借贷与收益率交易的无限潜力](https://lucifer.ren/blog/2025/08/14/web3-defi/)
 - [Uniswap V4：更灵活、更高效的去中心化交易所](https://lucifer.ren/blog/2025/08/10/web3-uniswap-v4/)
 - [Web3 科学家之如何查看鲸鱼挂单数据](https://lucifer.ren/blog/2025/08/04/web3-detective-1/)
 - [抖音也开始搞外卖大战了？](https://lucifer.ren/blog/2025/07/20/wechat-douyin-delivery/)
 - [Web3 的 Anti MEV：深入剖析“夹”与反制之道](https://lucifer.ren/blog/2025/07/06/web3-mev/)
-- [《小菜的交易系统》-一个完整的简易的交易系统](https://lucifer.ren/blog/2025/07/01/trading-system-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 

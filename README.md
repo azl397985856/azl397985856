@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NotebookLM：AI 驱动的知识炼金术，瞬间转化复杂信息为易懂洞见](https://lucifer.ren/blog/2026/01/01/ai-notebooklm/)
 - [当下流动性池分析](https://lucifer.ren/blog/2025/12/31/web3-lp-2025/)
 - [苹果AI转型：Siri升级与生态潜力](https://lucifer.ren/blog/2025/12/24/ai-apple/)
 - [我们是如何让 JSON.stringify 的速度提升两倍以上的](https://lucifer.ren/blog/2025/12/21/v8-json-stringify/)
 - [ACP：AI 代理协作协议在 Web3 空投自动化中的应用](https://lucifer.ren/blog/2025/12/07/web3-acp/)
-- [从零构建一个真正工作的简单搜索引擎](https://lucifer.ren/blog/2025/11/30/build-search-engine-by-your-own/)
 <!-- BLOG-POST-LIST:END -->
 
 

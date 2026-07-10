@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code 高级指南：驾驭上下文的艺术](https://lucifer.ren/blog/2026/01/25/ai-claude-code-advanced-skills/)
-- [NotebookLM：AI 驱动的知识炼金术，瞬间转化复杂信息为易懂洞见](https://lucifer.ren/blog/2026/01/01/ai-notebooklm/)
-- [当下流动性池分析](https://lucifer.ren/blog/2025/12/31/web3-lp-2025/)
-- [苹果AI转型：Siri升级与生态潜力](https://lucifer.ren/blog/2025/12/24/ai-apple/)
-- [我们是如何让 JSON.stringify 的速度提升两倍以上的](https://lucifer.ren/blog/2025/12/21/v8-json-stringify/)
+- [加密交易的风险管理：仓位、止损与资金分配](https://lucifer.ren/blog/2026/05/22/web3-risk-management/)
+- [永续合约：无到期日的杠杆交易是如何运作的](https://lucifer.ren/blog/2026/05/12/web3-perpetual/)
+- [代币经济学：如何判断一个代币值不值得买](https://lucifer.ren/blog/2026/05/03/web3-tokenomics/)
+- [稳定币机制全解：从 USDT 到 UST 崩盘的启示](https://lucifer.ren/blog/2026/05/02/web3-stablecoin/)
+- [DeFi 保险：谁来保护你的链上资产？](https://lucifer.ren/blog/2026/04/22/web3-defi-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我不知道的《易经》](https://lucifer.ren/blog/2026/07/25/yi-jing/)
+- [Freqtrade 进阶：把多个弱信号拧成一根绳——多信号评分策略实战](https://lucifer.ren/blog/2026/07/20/web3-freqtrade-2/)
 - [加密交易的风险管理：仓位、止损与资金分配](https://lucifer.ren/blog/2026/05/22/web3-risk-management/)
 - [永续合约：无到期日的杠杆交易是如何运作的](https://lucifer.ren/blog/2026/05/12/web3-perpetual/)
 - [代币经济学：如何判断一个代币值不值得买](https://lucifer.ren/blog/2026/05/03/web3-tokenomics/)
-- [稳定币机制全解：从 USDT 到 UST 崩盘的启示](https://lucifer.ren/blog/2026/05/02/web3-stablecoin/)
-- [DeFi 保险：谁来保护你的链上资产？](https://lucifer.ren/blog/2026/04/22/web3-defi-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
 

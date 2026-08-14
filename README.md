@@ -1,5 +1,7 @@
 
 
+
+
 <p align="center">
   <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'><br>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -15,10 +17,10 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 
 ## ヾ(@^▽^@)ノ
 
-- 🔭 I’m currently working on  [91 algorthimn](https://lucifer.ren/blog/2021/12/03/91algo-6/)
+- 🔭 I’m currently working on  [91 algorithm](https://lucifer.ren/blog/2021/12/03/91algo-6/)
 - 🌱 I’m currently learning psychology
 - 👯 I’m looking to collaborate on 91 team. feel free to reach me: azl397985856@gmail.com
-- 💬 Ask me about frontend, algorthimn, interview etc
+- 💬 Ask me about frontend, algorithm, interview etc
 
 ##  Follow Me
 
@@ -39,5 +41,3 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 - [永续合约：无到期日的杠杆交易是如何运作的](https://lucifer.ren/blog/2026/05/12/web3-perpetual/)
 - [代币经济学：如何判断一个代币值不值得买](https://lucifer.ren/blog/2026/05/03/web3-tokenomics/)
 <!-- BLOG-POST-LIST:END -->
-
-

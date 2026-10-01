@@ -33,9 +33,9 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [蜡烛图技术分析](https://lucifer.ren/blog/2026/10/01/japan-k-line/)
 - [一切皆插件：DeepSeek Harness](https://lucifer.ren/blog/2026/09/27/dsh/)
 - [配置文件的保险箱：dotr](https://lucifer.ren/blog/2026/09/20/dotr/)
-- [[No Title] - Post](https://lucifer.ren/blog/2026/08/01/japan-k-line/)
 - [我不知道的《易经》](https://lucifer.ren/blog/2026/07/25/yi-jing/)
 - [Freqtrade 进阶：把多个弱信号拧成一根绳——多信号评分策略实战](https://lucifer.ren/blog/2026/07/20/web3-freqtrade-2/)
 <!-- BLOG-POST-LIST:END -->

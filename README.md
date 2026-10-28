@@ -33,11 +33,11 @@ In 2021, I made 980 contributions and modified 4,000 lines of code. Check out my
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《逻辑哲学论》导读：世界、图像与沉默](https://lucifer.ren/blog/2026/10/28/tractatus/)
 - [看懂博物馆：从打卡到能讲给朋友听](https://lucifer.ren/blog/2026/10/26/learn-museums/)
-- [炒股多年之后，把理财学成体系](https://lucifer.ren/blog/2026/10/26/learn-personal-finance/)
 - [摄影与 vlog 自学路线：从手机开始](https://lucifer.ren/blog/2026/10/26/learn-photography-vlog/)
+- [炒股多年之后，把理财学成体系](https://lucifer.ren/blog/2026/10/26/learn-personal-finance/)
 - [一年四件事：我的月度轮换计划（总览）](https://lucifer.ren/blog/2026/10/26/life-rotation-plan/)
-- [在焦作做公益：一份本地参与指南](https://lucifer.ren/blog/2026/10/26/volunteer-in-jiaozuo/)
 <!-- BLOG-POST-LIST:END -->
 
 
